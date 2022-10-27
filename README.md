@@ -55,7 +55,7 @@ openssl pkcs12 -inkey server-key.pem -in server-certificate.pem -export -out ser
 
 ## 文件结构
 
-![image-20221027122309930](README.assets/image-20221027122309930.png)
+![image-20221027145820525](README.assets/image-20221027145820525.png)
 
 ## 设计思想
 
